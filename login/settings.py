@@ -87,7 +87,7 @@ DATABASES = {
         'HOST': 'localhost',
         'PORT': '3306',
         'USER': 'root',
-        'PASSWORD': 'Swapnil@999',
+        'PASSWORD': 'root',
     }
 }
 
